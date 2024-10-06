@@ -1,0 +1,6 @@
+Topics Covered:
+
+Erlang shell basics
+Data types: atoms, numbers, tuples, lists
+Variables and pattern matching
+Functions and modules
