@@ -1,0 +1,5 @@
+Topics Covered:
+
+Recursion in Erlang
+Pattern matching in function heads
+List processing using recursion
